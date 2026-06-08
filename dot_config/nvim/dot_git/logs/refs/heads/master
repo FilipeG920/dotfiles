@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 cfdc17be3ae1607d4427332de0b29d556f9dda13 FilipeG920 <genesisfilipe11@gmail.com> 1779053419 -0300	clone: from https://github.com/FilipeG920/genesis-kickstart.nvim.git
+cfdc17be3ae1607d4427332de0b29d556f9dda13 cc880a95f76aaa037fe5971bc8f707ac757e5aa6 FilipeG920 <genesisfilipe11@gmail.com> 1779206289 -0300	commit: [feat]: modularize neovim config
+cc880a95f76aaa037fe5971bc8f707ac757e5aa6 7315116315f3670a3ab80bbddad04c1f3fe34149 FilipeG920 <genesisfilipe11@gmail.com> 1779562450 -0300	commit: [feat]: add oil, neotree and mini.autopairs plugins
+7315116315f3670a3ab80bbddad04c1f3fe34149 f4e1151659d147d5ada096ca1104d51ddde862d9 FilipeG920 <genesisfilipe11@gmail.com> 1780469631 -0300	commit: [feat]: add flutter support config
+f4e1151659d147d5ada096ca1104d51ddde862d9 502f26ce2d80a90d82e705cc3352dc515c02763f FilipeG920 <genesisfilipe11@gmail.com> 1780469682 -0300	commit: [feat]: add new notify 'manager'
+502f26ce2d80a90d82e705cc3352dc515c02763f e773870e7640084d5533e9051b2acd4182062a23 FilipeG920 <genesisfilipe11@gmail.com> 1780469721 -0300	commit: [feat]: add debug and lint functionality
+e773870e7640084d5533e9051b2acd4182062a23 04fbc3da6c1c286817e37116f089a8befea96a1d FilipeG920 <genesisfilipe11@gmail.com> 1780469792 -0300	commit: [feat]: add new edit and comment functionality plugins
+04fbc3da6c1c286817e37116f089a8befea96a1d e4cab14107aee098be927c75f888a1b1ae0bd544 FilipeG920 <genesisfilipe11@gmail.com> 1780469817 -0300	commit: [feat]: add python support

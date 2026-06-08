@@ -1,0 +1,18 @@
+format = """
+$directory$git_branch$git_status$character
+"""
+
+[directory]
+style = "bold lavender"
+truncate_to_repo = false
+
+[git_branch]
+symbol = " "
+style = "bold blue"
+
+[git_status]
+style = "bold yellow"
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
