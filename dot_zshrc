@@ -102,7 +102,7 @@ path=(
   "$HOME/.local/bin"
   "$HOME/bin"
   "$HOME/.cargo/bin"
-  "$HOME/Flutter/flutter/bin"
+  "$HOME/develop/flutter/bin"
   $path
 )
 
